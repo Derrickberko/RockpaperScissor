@@ -66,8 +66,8 @@ else:
   elif user_choice == computer_choice:
     print("It is a draw")
     
-  elif user_choice >= 3 or user_choice < 0:
-    print('You typed an invalid numbeer, you lose')
+  e
+
   
   
     
